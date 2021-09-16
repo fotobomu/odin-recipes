@@ -1,0 +1,1 @@
+This is the HTML assignment with The Odin Project! Let's write some super semantic HTML.
